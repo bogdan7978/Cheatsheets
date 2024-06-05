@@ -1,6 +1,6 @@
 ### Linux Terminal Commands ###
 
-**touch <file name and extension>**  #This will create a new file
+**touch 'file name and extension'**  #This will create a new file
 
 **rm** #Removes a file
 
@@ -8,9 +8,9 @@
 
 **cd** #Changes the directory
 
-**cd ..** #Go back one directory
+**cd '..'** #Go back one directory
 
-**cd ~** #Go to home directory
+**cd '~'** #Go to home directory
 
 **cat 'file name and estension'** #Shows what's in a file
 
