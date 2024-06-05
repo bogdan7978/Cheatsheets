@@ -35,4 +35,9 @@ git branch -M <name> - rename master branch to main
 git branch <name> - to create a new branch
 git branch -d - to delete a branch (use -D to fore delete)
 git checkout <name> - to switch branches
+git checkout -b <name> - to create a new branch and switch to it
+git checkout - - takes you to previous branch
 
+Merge conflicts - When branches modified the same line of code (and commited the changes)
+git diff - to see the conflict
+git merge --abort - to cancel the merge
