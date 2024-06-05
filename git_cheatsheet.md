@@ -1,4 +1,4 @@
-> Conotations '--' are reffered to as flag\
+> Connotations '--' are reffered to as flag\
 
 ### Info
 `git --version`\
