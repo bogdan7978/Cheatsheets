@@ -1,2 +1,3 @@
-Hello world
-I am
+Hello world 
+
+This is a git cheatsheet
