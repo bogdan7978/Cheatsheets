@@ -1,3 +1,3 @@
 **Hello world** 
 
-This is a git cheatsheet
+This is a repository with cheatsheets
