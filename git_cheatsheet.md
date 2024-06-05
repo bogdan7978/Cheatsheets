@@ -13,7 +13,7 @@ git add . - to add all the changed files
 git reset . - to return all the files to untracked/staged (undo git add)
 git commit -m "message" - To add a snapshot of your changes
 git log - to see a history of the commits
-git commit -a -m "message" - to commit without using git add
+git commit -am "message" - to commit without using git add
 --dry-run - to test a commit
 
 git remote - tells you which remote repositories are linked to your local one
