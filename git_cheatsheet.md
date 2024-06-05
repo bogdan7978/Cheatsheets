@@ -22,3 +22,8 @@ git remote -v - to show details about remote repository
 git remote show origin - more details about remote repository linked
 
 git push origin(name of remote repo) master(branch you want) -u(set origin to upstream remote, when you pull you need no arguments)
+
+Sync changes from remote repo to local one
+git fetch - to download latest changes
+git merge origin/master - to merge the two braches (remote and local)
+git pull - alternative to fetch and merge
