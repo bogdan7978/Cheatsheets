@@ -21,7 +21,7 @@
 `git commit -m "message"` - **Add a snapshot of your changes**\
 `git log` - **See a history of the commits**\
 `git commit -am "message"` - **Commit without using git add**\
-`--dry-run` - **Test a commit**
+`--dry-run` - **Test a commit**\
 `git commit --amend "new message"` - **Change the message of a commit**
 
 `git remote` - **Rells you which remote repositories are linked to your local one**\
