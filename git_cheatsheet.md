@@ -38,6 +38,13 @@ git checkout <name> - to switch branches
 git checkout -b <name> - to create a new branch and switch to it
 git checkout - - takes you to previous branch
 
+git merge <branch-name> - The branch using this command will take the changes of the other branch specified
 Merge conflicts - When branches modified the same line of code (and commited the changes)
 git diff - to see the conflict
 git merge --abort - to cancel the merge
+After a merge conflict is resolved, an 'add and commit' command is needed to save the changes
+
+A fork is created when you want to work on a project from GitHub on your own account. 
+After that a pull request is sent to the original author and reviewed.
+
+git commit --amend "new message" - To change the message of a commit

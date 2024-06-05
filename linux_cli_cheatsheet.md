@@ -1,6 +1,6 @@
 ### Linux Terminal Commands ###
 
-**touch 'file name and extension'**  #This will create a new file
+**touch <file name and extension>**  #This will create a new file
 
 **rm** #Removes a file
 
