@@ -27,3 +27,12 @@ Sync changes from remote repo to local one
 git fetch - to download latest changes
 git merge origin/master - to merge the two braches (remote and local)
 git pull - alternative to fetch and merge
+
+git clone <url> <folder>(optional, if specified it will create a new folder)
+
+git branch - to check the branches of a repo
+git branch -M <name> - rename master branch to main
+git branch <name> - to create a new branch
+git branch -d - to delete a branch (use -D to fore delete)
+git checkout <name> - to switch branches
+
