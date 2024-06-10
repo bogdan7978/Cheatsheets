@@ -58,3 +58,5 @@ git clone <url> <folder>(optional, if specified it will create a new folder)
 > After a merge conflict is resolved, an `add and commit` command is needed to save the changes
 
 >A fork is created when you want to work on a project from GitHub on your own account. After that a pull request is sent to the original author and reviewed.
+
+Hello world
